@@ -1,6 +1,8 @@
 # Authentication-System-using-LSTM-Action-Detection-and-MTCNN-Facial-Recognition
 Machine-Learning-Based Authentication System using LSTM RNN Action Detection and MTCNN Custom Facial Recognition
 
+The Authentication System is a comprehensive and integrated solution designed to securely control access to a facility or location. The system is comprised of multiple modules, including action detection, facial recognition, text-to-speech, and a user-friendly interface, all working together to provide a seamless and secure authentication process. The system uses advanced machine learning algorithms and computer vision techniques to accurately detect and recognize users based on their hand gestures and facial features. Additionally, the system is equipped with serial communication capabilities to control access through a door lock. The goal of the Authentication System is to provide a reliable and secure way to control access to a location while maintaining user convenience and ease-of-use.
+
 
 # The Authentication System Consists of The Following Modules:
 
