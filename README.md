@@ -9,7 +9,7 @@ The Authentication System is a comprehensive and integrated solution designed to
 # 1) Action Detection Machine Learning Model based on the Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) Architecture 
 The LSTM RNN action detection model is trained using Tensorflow and Keras machine learning frameworks where the dataset is based on right hand pose estimation keypoints  values which is collected manually using the Mediapipe holistic pipeline. The dataset consists of 6 classes which are hand signs of numbers from 0 to 5 and for each class 30 videos of 30 frames each have been collected. The overall system accuracy is 96.3% and it has 150,566 learnable parameters.
 
-# 2) Human Pose Estimation of right hand using Mediapipe Holistics Pipeline
+# 2) Human Pose Estimation of Right Hand using Mediapipe Holistics Pipeline
 The Mediapipe holistics provide keypoints/ landmarks for the face, body (pose), and right and left hands. Only kepoints for the right hand has been extracted and used for the action detection model. The right hand has 21 keypoints and each keypoint consist of x, y, and z values which gives us a total of 63 values for each frame.
 
 # 3) Facial Recognition using VGGFace2 Dataset for Face Recognition and MTCNN for Facial Features Extraction and Detection
